@@ -1874,14 +1874,16 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .VLoccc.K5Zlne.QDWEj {
     padding-right: 0;
-    border: 2px solid red;
-    display: none;
+    display: none !important;
 }
 .Tw5Lhf {
-    padding-top: 0px;
+    padding-top: 0px !important;
 }
 
 .fOU46b .G8QRnc .Mz8gvb {
-    display: none;
-    color: rgba(0,0,0,0.8000000119);
+    display: none !important;
+}
+
+.Pvc6xe {
+    display: none !important;
 }
