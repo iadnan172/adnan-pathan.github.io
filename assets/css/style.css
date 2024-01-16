@@ -1872,27 +1872,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-@media only screen and (min-width: 768px)
-.yaqOZd:not(.LB7kq):not(.WxWicb) {
-    padding-bottom: 0px;
-    padding-top: 0px;
-}
-@media only screen and (min-width: 768px)
-.hJDwNd-AhqUyc-uQSCkd.JNdkSc .JNdkSc-SmKAyb {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-
-@media only screen and (min-width: 480px)
-.pSzOP-AhqUyc-qWD73c.JNdkSc .JNdkSc-SmKAyb {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-.purZT-AhqUyc-II5mzb.JNdkSc .JNdkSc-SmKAyb {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-@media (min-width: 1250px)
-body::-webkit-scrollbar {
-    width: 0px;
+.VLoccc.K5Zlne.QDWEj {
+    padding-right: 0;
+    border: 2px solid red;
+    display: none;
 }
