@@ -2,15 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -1880,3 +1871,24 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.LS81yb, .oKdM2c {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 1280px;
+    *zoom: 1;
+}
+
+@media only screen and (min-width: 768px)
+.hJDwNd-AhqUyc-uQSCkd.JNdkSc .JNdkSc-SmKAyb {
+    padding-left: 1.25%;
+    padding-right: 1.25%;
+}
+
+@media only screen and (min-width: 768px)
+.LS81yb {
+    /* padding-left: 48px; */
+    /* padding-right: 48px; */
+}
+
