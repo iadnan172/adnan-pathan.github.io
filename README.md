@@ -1,3 +1,5 @@
+# PORTFOLIO
+
 This portfolio website is a dynamic showcase of my skills and projects, designed to provide a clean, interactive,
 and professional overview of my work. Built using HTML, CSS, and JavaScript,
 the site highlights my expertise in web development, presenting a visually engaging interface.
